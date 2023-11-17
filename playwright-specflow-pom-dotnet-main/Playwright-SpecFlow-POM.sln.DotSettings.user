@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=daa19a66_002D353c_002D46f1_002Dbee4_002D6e9b831288b8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SearchForBookHowTheyBrokeBritainOnAmazonUKHomepage" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::096A3E48-8B83-4D85-AE75-8360FC319DDB::net6.0::PlaywrightSpecFlowPOM.Features.SearchForBookFeature.SearchForBookHowTheyBrokeBritainOnAmazonUKHomepage&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
