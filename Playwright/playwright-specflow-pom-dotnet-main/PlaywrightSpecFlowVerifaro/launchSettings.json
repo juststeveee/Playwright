@@ -1,0 +1,8 @@
+﻿{
+    "EnvironmentsSample": {
+      "environmentVariables": {
+        "BROWSER_TYPE": "Chromium",
+        "BASE_ADDRESS": "https://www.amazon.co.uk/"
+      }
+    }
+}
